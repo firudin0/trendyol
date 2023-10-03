@@ -1,0 +1,13 @@
+.trendyol{
+    width: 100px;
+    height: 80px;
+}
+.flex-container{
+    background-color: orange;
+    color: black;
+    width: 30px;
+    height: 30px; 
+    display: flex;
+    justify-content: center;
+   
+}
